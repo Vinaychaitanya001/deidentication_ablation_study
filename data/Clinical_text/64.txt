@@ -1,0 +1,38 @@
+Government Hospital Kaithal
+Discharge Summary
+
+Patient Name: Pooja Sharma
+Age/Sex: 58/F
+UHID: 725957781
+Admission No: ADM-20260803
+Address: Varanasi, Uttar Pradesh
+Admission Date: 07/02/2026 08:00 AM
+Discharge Date: 13/02/2026 03:00 PM
+Treating Consultant: Dr. Naresh Trehan (Cardiac Surgeon), Orthopaedics
+
+Chief Complaints: Lower back pain radiating to the leg for 26 weeks.
+
+History of Present Illness: Pain is sharp and shooting in nature. Patient ko dard tha.
+
+Past History: History of fall a few years back.
+
+Physical Examination: Swelling and tenderness over the right knee joint.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: X-ray of the knee shows degenerative changes.
+
+Diagnosis: Osteoarthritis of the right knee (ICD: M17.11).
+
+Course in Hospital: Advised for physiotherapy and lifestyle modifications. No major complications, but monitored for dengue-like symptoms.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Tulsi for cough.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Paracetamol 650mg SOS for pain.
+
+
+Dr. Anjali Desai (Pediatrician)
+Signature

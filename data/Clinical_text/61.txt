@@ -1,0 +1,38 @@
+Fortis Hospital Delhi
+Discharge Summary
+
+Patient Name: Joseph D'Souza
+Age/Sex: 45/F
+UHID: 309179694
+Admission No: ADM-20267844
+Address: Salt Lake City, Kolkata
+Admission Date: 04/02/2026 10:00 AM
+Discharge Date: 11/02/2026 01:00 PM
+Treating Consultant: Dr. Anjali Desai (Pediatrician), Orthopaedics
+
+Chief Complaints: Lower back pain radiating to the leg for 23 weeks.
+
+History of Present Illness: Pain increases on walking and climbing stairs. Patient ko dard tha.
+
+Past History: History of fall a few years back.
+
+Physical Examination: Restricted range of motion of the lumbar spine.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: X-ray of the knee shows degenerative changes.
+
+Diagnosis: Lumbar Disc Herniation (ICD: M51.26).
+
+Course in Hospital: Managed conservatively with analgesics and rest. No major complications, but monitored for dengue-like symptoms.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Paracetamol 650mg SOS for pain.
+
+
+Dr. Naresh Trehan (Cardiac Surgeon)
+Signature

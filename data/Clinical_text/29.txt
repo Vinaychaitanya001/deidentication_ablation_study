@@ -1,0 +1,38 @@
+JIPMER Puducherry
+Discharge Summary
+
+Patient Name: Baby Priya
+Age/Sex: 8 months/M
+UHID: 294503465
+Admission No: ADM-20266561
+Address: HITEC City, Hyderabad
+Admission Date: 06/02/2026 12:00 AM
+Discharge Date: 12/02/2026 03:00 PM
+Treating Consultant: Dr. Anita Sharma, Pediatrics
+
+Chief Complaints: Loose motions aur vomiting for 14 days.
+
+History of Present Illness: High fever, measles-like rash. Patient ko fever tha.
+
+Past History: Recent URI.
+
+Physical Examination: Dehydrated, abdomen soft.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: CRP: Positive.
+
+Diagnosis: Acute Gastroenteritis (ICD: A09).
+
+Course in Hospital: Symptomatic treatment, resolved. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Syrup Zinc 5ml OD.
+
+
+Dr. Randeep Guleria (Pulmonologist)
+Signature

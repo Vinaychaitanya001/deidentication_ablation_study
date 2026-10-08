@@ -1,0 +1,38 @@
+Apollo Hospital Chennai
+Discharge Summary
+
+Patient Name: Aman Verma
+Age/Sex: 62/M
+UHID: 437041926
+Admission No: ADM-20264207
+Address: Connaught Place, New Delhi
+Admission Date: 06/02/2026 10:00 AM
+Discharge Date: 10/02/2026 01:00 PM
+Treating Consultant: Dr. Anita Sharma, Orthopaedics
+
+Chief Complaints: Lower back pain radiating to the leg for 16 weeks.
+
+History of Present Illness: Pain increases on walking and climbing stairs. Patient ko dard tha.
+
+Past History: History of fall a few years back.
+
+Physical Examination: Restricted range of motion of the lumbar spine.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: X-ray of the knee shows degenerative changes.
+
+Diagnosis: Lumbar Disc Herniation (ICD: M51.26).
+
+Course in Hospital: Managed conservatively with analgesics and rest. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Paracetamol 650mg SOS for pain.
+
+
+Dr. Naresh Trehan (Cardiac Surgeon)
+Signature

@@ -1,0 +1,38 @@
+Medanta The Medicity Gurgaon
+Discharge Summary
+
+Patient Name: Veena Kumari
+Age/Sex: 58/F
+UHID: 799323014
+Admission No: ADM-20267434
+Address: Bandra West, Mumbai
+Admission Date: 01/02/2026 09:00 AM
+Discharge Date: 10/02/2026 01:00 PM
+Treating Consultant: Dr. Neha Patel, Orthopaedics
+
+Chief Complaints: Pain in right knee for 20 months.
+
+History of Present Illness: Pain increases on walking and climbing stairs. Patient ko weakness feel kar raha tha.
+
+Past History: No history of chronic illness.
+
+Physical Examination: Restricted range of motion of the lumbar spine.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: MRI of the spine shows disc herniation at L4-L5.
+
+Diagnosis: Lumbar Disc Herniation (ICD: M51.26).
+
+Course in Hospital: Advised for physiotherapy and lifestyle modifications. No major complications, but monitored for dengue-like symptoms.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Paracetamol 650mg SOS for pain.
+
+
+Dr. Vikram Singh
+Signature

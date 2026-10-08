@@ -1,0 +1,38 @@
+PGIMER Chandigarh
+Discharge Summary
+
+Patient Name: Sunita Devi
+Age/Sex: 17 years/M
+UHID: 434827957
+Admission No: ADM-20260803
+Address: Varanasi, Uttar Pradesh
+Admission Date: 06/02/2026 12:00 AM
+Discharge Date: 13/02/2026 03:00 PM
+Treating Consultant: Dr. Naresh Trehan (Cardiac Surgeon), Oncology
+
+Chief Complaints: Unexplained weight loss and fatigue for 25 months.
+
+History of Present Illness: The lump is painless and hard to touch. Patient ko dard tha.
+
+Past History: Family history of cancer.
+
+Physical Examination: 2x2 cm hard lump in the upper outer quadrant of the left breast.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: CBC shows anemia. PET scan shows metastasis.
+
+Diagnosis: Metastatic Adenocarcinoma of unknown primary (ICD: C80.0).
+
+Course in Hospital: Patient started on palliative chemotherapy. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Regular follow-up in the oncology OPD.
+
+
+Dr. Rajesh Kumar
+Signature

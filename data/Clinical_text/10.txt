@@ -1,0 +1,38 @@
+Safdarjung Hospital Delhi
+Discharge Summary
+
+Patient Name: Harpreet Kaur
+Age/Sex: 5 years/F
+UHID: 932001798
+Admission No: ADM-20265518
+Address: Jaipur, Rajasthan
+Admission Date: 03/02/2026 09:00 AM
+Discharge Date: 10/02/2026 01:00 PM
+Treating Consultant: Dr. Anjali Desai (Pediatrician), Orthopaedics
+
+Chief Complaints: Lower back pain radiating to the leg for 4 weeks.
+
+History of Present Illness: Pain is sharp and shooting in nature. Patient ko fever tha.
+
+Past History: No history of chronic illness.
+
+Physical Examination: Swelling and tenderness over the right knee joint.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: X-ray of the knee shows degenerative changes.
+
+Diagnosis: Osteoarthritis of the right knee (ICD: M17.11).
+
+Course in Hospital: Managed conservatively with analgesics and rest. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Avoid lifting heavy weights; Follow-up after 2 weeks.
+
+
+Dr. Anita Sharma
+Signature

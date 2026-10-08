@@ -1,0 +1,38 @@
+Medanta The Medicity Gurgaon
+Discharge Summary
+
+Patient Name: Ananya Banerjee
+Age/Sex: 45/F
+UHID: 265308971
+Admission No: ADM-20267092
+Address: Lucknow, Uttar Pradesh
+Admission Date: 01/02/2026 09:00 AM
+Discharge Date: 15/02/2026 03:00 PM
+Treating Consultant: Dr. Neha Patel, Pediatrics
+
+Chief Complaints: Loose motions aur vomiting for 13 days.
+
+History of Present Illness: Acute, with mild dehydration. Patient ko weakness feel kar raha tha.
+
+Past History: Recent URI.
+
+Physical Examination: Temp: 102°F, throat congested.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: CRP: Positive.
+
+Diagnosis: Acute Gastroenteritis (ICD: A09).
+
+Course in Hospital: Symptomatic treatment, resolved. No major complications, but monitored for dengue-like symptoms.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Syrup Zinc 5ml OD.
+
+
+Dr. Vikram Singh
+Signature

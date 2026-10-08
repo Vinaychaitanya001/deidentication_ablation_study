@@ -1,0 +1,22 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Presidio source / archives are not part of this repo (the PyPI package is what is tested)
+presidio-main/
+*.zip
+
+# Credentialed data must never be committed
+data/annotated-mimic*/
+results/mimic/
+
+# Regenerable review page (python eval/make_gold.py)
+eval/gold/review.html
+
+# Scratch runs
+results/_*/
+results/verify_*/
+
+.DS_Store
+Thumbs.db

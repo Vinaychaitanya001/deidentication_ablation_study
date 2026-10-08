@@ -1,0 +1,38 @@
+JIPMER Puducherry
+Discharge Summary
+
+Patient Name: Aman Verma
+Age/Sex: 28/F
+UHID: 647684759
+Admission No: ADM-20260803
+Address: Kaithal, Haryana
+Admission Date: 02/02/2026 10:00 AM
+Discharge Date: 14/02/2026 01:00 PM
+Treating Consultant: Dr. Vikram Singh, Pediatrics
+
+Chief Complaints: Loose motions aur vomiting for 5 days.
+
+History of Present Illness: Acute, with mild dehydration. Patient ko fever tha.
+
+Past History: Vaccinations up-to-date.
+
+Physical Examination: Dehydrated, abdomen soft.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: CBC: WBC elevated; Stool: No parasites.
+
+Diagnosis: Viral Exanthem (ICD: B09).
+
+Course in Hospital: ORS and IV fluids. Zinc given. No major complications, but monitored for dengue-like symptoms.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Syrup Zinc 5ml OD.
+
+
+Dr. Anjali Desai (Pediatrician)
+Signature

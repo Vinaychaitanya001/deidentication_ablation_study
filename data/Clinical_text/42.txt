@@ -1,0 +1,38 @@
+Government Hospital Kaithal
+Discharge Summary
+
+Patient Name: Rajesh Gupta
+Age/Sex: 17 years/M
+UHID: 215681201
+Admission No: ADM-20266812
+Address: Salt Lake City, Kolkata
+Admission Date: 01/02/2026 10:00 AM
+Discharge Date: 11/02/2026 01:00 PM
+Treating Consultant: Dr. Anjali Desai (Pediatrician), Orthopaedics
+
+Chief Complaints: Lower back pain radiating to the leg for 20 weeks.
+
+History of Present Illness: Pain increases on walking and climbing stairs. Patient ko weakness feel kar raha tha.
+
+Past History: History of fall a few years back.
+
+Physical Examination: Restricted range of motion of the lumbar spine.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: MRI of the spine shows disc herniation at L4-L5.
+
+Diagnosis: Lumbar Disc Herniation (ICD: M51.26).
+
+Course in Hospital: Advised for physiotherapy and lifestyle modifications. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Tulsi for cough.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Paracetamol 650mg SOS for pain.
+
+
+Dr. Anjali Desai (Pediatrician)
+Signature

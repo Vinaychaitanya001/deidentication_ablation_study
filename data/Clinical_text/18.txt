@@ -1,0 +1,38 @@
+Tata Memorial Hospital Mumbai
+Discharge Summary
+
+Patient Name: Suresh Iyer
+Age/Sex: 22/M
+UHID: 843977986
+Admission No: ADM-20269409
+Address: Jaipur, Rajasthan
+Admission Date: 03/02/2026 11:00 AM
+Discharge Date: 11/02/2026 03:00 PM
+Treating Consultant: Dr. Rajesh Kumar, Neurology
+
+Chief Complaints: Severe headache with nausea for 12 days.
+
+History of Present Illness: Sudden onset, with facial droop. Patient ko dard tha.
+
+Past History: Hypertension, smoker.
+
+Physical Examination: Power: 4/5 right limbs; Reflexes: Hyperactive.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: EEG: Abnormal spikes.
+
+Diagnosis: Migraine (ICD: G43.9).
+
+Course in Hospital: IV thrombolysis, physiotherapy. Improved. No major complications, but monitored for dengue-like symptoms.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Clopidogrel 75mg OD.
+
+
+Dr. Randeep Guleria (Pulmonologist)
+Signature

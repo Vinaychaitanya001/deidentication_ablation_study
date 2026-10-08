@@ -1,0 +1,38 @@
+Apollo Hospital Chennai
+Discharge Summary
+
+Patient Name: Amit Sharma
+Age/Sex: 5 years/F
+UHID: 309179694
+Admission No: ADM-20262807
+Address: Lucknow, Uttar Pradesh
+Admission Date: 07/02/2026 11:00 AM
+Discharge Date: 10/02/2026 02:00 PM
+Treating Consultant: Dr. Vikram Singh, Orthopaedics
+
+Chief Complaints: Pain in right knee for 30 months.
+
+History of Present Illness: Pain is sharp and shooting in nature. Patient ko fever tha.
+
+Past History: History of fall a few years back.
+
+Physical Examination: Restricted range of motion of the lumbar spine.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: MRI of the spine shows disc herniation at L4-L5.
+
+Diagnosis: Osteoarthritis of the right knee (ICD: M17.11).
+
+Course in Hospital: Advised for physiotherapy and lifestyle modifications. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Paracetamol 650mg SOS for pain.
+
+
+Dr. Anjali Desai (Pediatrician)
+Signature

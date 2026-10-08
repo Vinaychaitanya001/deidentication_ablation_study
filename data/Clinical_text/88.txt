@@ -1,0 +1,38 @@
+Max Super Speciality Hospital Delhi
+Discharge Summary
+
+Patient Name: Maria Fernandes
+Age/Sex: 22/M
+UHID: 224411653
+Admission No: ADM-20266561
+Address: Salt Lake City, Kolkata
+Admission Date: 01/02/2026 12:00 AM
+Discharge Date: 12/02/2026 02:00 PM
+Treating Consultant: Dr. Vikram Singh, Pediatrics
+
+Chief Complaints: Fever and rash for 16 days.
+
+History of Present Illness: High fever, measles-like rash. Patient ko weakness feel kar raha tha.
+
+Past History: Recent URI.
+
+Physical Examination: Dehydrated, abdomen soft.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: CBC: WBC elevated; Stool: No parasites.
+
+Diagnosis: Acute Gastroenteritis (ICD: A09).
+
+Course in Hospital: ORS and IV fluids. Zinc given. No major complications, but monitored for dengue-like symptoms.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Diet: Breastfeed; Follow-up: 5 days.
+
+
+Dr. Randeep Guleria (Pulmonologist)
+Signature

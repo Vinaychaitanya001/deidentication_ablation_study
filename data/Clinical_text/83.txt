@@ -1,0 +1,38 @@
+Apollo Hospital Chennai
+Discharge Summary
+
+Patient Name: Amit Sharma
+Age/Sex: 58/F
+UHID: 491664291
+Admission No: ADM-20268585
+Address: Connaught Place, New Delhi
+Admission Date: 06/02/2026 12:00 AM
+Discharge Date: 14/02/2026 03:00 PM
+Treating Consultant: Dr. Vikram Singh, Neurology
+
+Chief Complaints: Right side weakness aur bolne mein difficulty for 24 days.
+
+History of Present Illness: Migraine-like, photophobia. Patient ko weakness feel kar raha tha.
+
+Past History: Epilepsy since childhood.
+
+Physical Examination: Cranial nerves: Intact.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: MRI: Left MCA infarct; CT: No bleed.
+
+Diagnosis: Migraine (ICD: G43.9).
+
+Course in Hospital: Antimigraine prophylaxis started. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Avoid triggers; Follow-up: 10 days.
+
+
+Dr. Randeep Guleria (Pulmonologist)
+Signature

@@ -1,0 +1,38 @@
+Apollo Hospital Chennai
+Discharge Summary
+
+Patient Name: Pooja Sharma
+Age/Sex: 17 years/M
+UHID: 881360579
+Admission No: ADM-20264207
+Address: Bandra West, Mumbai
+Admission Date: 03/02/2026 12:00 AM
+Discharge Date: 10/02/2026 03:00 PM
+Treating Consultant: Dr. Rajesh Kumar, Neurology
+
+Chief Complaints: Right side weakness aur bolne mein difficulty for 25 days.
+
+History of Present Illness: Sudden onset, with facial droop. Patient ko weakness feel kar raha tha.
+
+Past History: Epilepsy since childhood.
+
+Physical Examination: Cranial nerves: Intact.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: EEG: Abnormal spikes.
+
+Diagnosis: Migraine (ICD: G43.9).
+
+Course in Hospital: IV thrombolysis, physiotherapy. Improved. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Clopidogrel 75mg OD.
+
+
+Dr. Randeep Guleria (Pulmonologist)
+Signature

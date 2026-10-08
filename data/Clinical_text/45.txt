@@ -1,0 +1,38 @@
+Max Super Speciality Hospital Delhi
+Discharge Summary
+
+Patient Name: Suresh Iyer
+Age/Sex: 8 months/M
+UHID: 374865577
+Admission No: ADM-20269668
+Address: Moga, Punjab
+Admission Date: 05/02/2026 11:00 AM
+Discharge Date: 14/02/2026 01:00 PM
+Treating Consultant: Dr. Rajesh Kumar, Orthopaedics
+
+Chief Complaints: Lower back pain radiating to the leg for 24 weeks.
+
+History of Present Illness: Pain is sharp and shooting in nature. Patient ko fever tha.
+
+Past History: No history of chronic illness.
+
+Physical Examination: Restricted range of motion of the lumbar spine.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: MRI of the spine shows disc herniation at L4-L5.
+
+Diagnosis: Lumbar Disc Herniation (ICD: M51.26).
+
+Course in Hospital: Managed conservatively with analgesics and rest. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Paracetamol 650mg SOS for pain.
+
+
+Dr. Vikram Singh
+Signature

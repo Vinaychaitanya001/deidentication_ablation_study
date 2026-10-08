@@ -1,0 +1,38 @@
+Government Hospital Kaithal
+Discharge Summary
+
+Patient Name: Baby Aarav
+Age/Sex: 58/F
+UHID: 874874567
+Admission No: ADM-20262573
+Address: Moga, Punjab
+Admission Date: 08/02/2026 12:00 AM
+Discharge Date: 11/02/2026 01:00 PM
+Treating Consultant: Dr. Neha Patel, Orthopaedics
+
+Chief Complaints: Pain in right knee for 23 months.
+
+History of Present Illness: Pain increases on walking and climbing stairs. Patient ko weakness feel kar raha tha.
+
+Past History: History of fall a few years back.
+
+Physical Examination: Swelling and tenderness over the right knee joint.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: MRI of the spine shows disc herniation at L4-L5.
+
+Diagnosis: Lumbar Disc Herniation (ICD: M51.26).
+
+Course in Hospital: Managed conservatively with analgesics and rest. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Avoid lifting heavy weights; Follow-up after 2 weeks.
+
+
+Dr. Naresh Trehan (Cardiac Surgeon)
+Signature

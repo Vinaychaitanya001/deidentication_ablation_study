@@ -1,0 +1,38 @@
+Apollo Hospital Chennai
+Discharge Summary
+
+Patient Name: Pooja Sharma
+Age/Sex: 17 years/M
+UHID: 892515314
+Admission No: ADM-20268562
+Address: Moga, Punjab
+Admission Date: 01/02/2026 10:00 AM
+Discharge Date: 11/02/2026 02:00 PM
+Treating Consultant: Dr. Anjali Desai (Pediatrician), Oncology
+
+Chief Complaints: Unexplained weight loss and fatigue for 16 months.
+
+History of Present Illness: Patient noticed a gradual loss of appetite. Patient ko dard tha.
+
+Past History: No history of major illness.
+
+Physical Examination: Cachexic look, pallor present.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: Mammogram and biopsy confirmed malignancy.
+
+Diagnosis: Carcinoma of the Breast (ICD: C50.9).
+
+Course in Hospital: Patient started on palliative chemotherapy. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Tulsi for cough.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- High protein diet.
+
+
+Dr. Vikram Singh
+Signature

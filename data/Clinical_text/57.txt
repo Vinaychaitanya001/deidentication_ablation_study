@@ -1,0 +1,38 @@
+Max Super Speciality Hospital Delhi
+Discharge Summary
+
+Patient Name: Aman Verma
+Age/Sex: 5 years/F
+UHID: 966410736
+Admission No: ADM-20266079
+Address: Kaithal, Haryana
+Admission Date: 05/02/2026 09:00 AM
+Discharge Date: 15/02/2026 03:00 PM
+Treating Consultant: Dr. Randeep Guleria (Pulmonologist), Oncology
+
+Chief Complaints: Unexplained weight loss and fatigue for 30 months.
+
+History of Present Illness: Patient noticed a gradual loss of appetite. Patient ko fever tha.
+
+Past History: No history of major illness.
+
+Physical Examination: Cachexic look, pallor present.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: Mammogram and biopsy confirmed malignancy.
+
+Diagnosis: Carcinoma of the Breast (ICD: C50.9).
+
+Course in Hospital: Patient started on palliative chemotherapy. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- High protein diet.
+
+
+Dr. Vikram Singh
+Signature

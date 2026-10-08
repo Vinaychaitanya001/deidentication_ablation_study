@@ -1,0 +1,38 @@
+Medanta The Medicity Gurgaon
+Discharge Summary
+
+Patient Name: Neha Patel
+Age/Sex: 35/M
+UHID: 215681201
+Admission No: ADM-20263781
+Address: Kaithal, Haryana
+Admission Date: 02/02/2026 09:00 AM
+Discharge Date: 14/02/2026 02:00 PM
+Treating Consultant: Dr. Vikram Singh, Neurology
+
+Chief Complaints: Severe headache with nausea for 8 days.
+
+History of Present Illness: Migraine-like, photophobia. Patient ko weakness feel kar raha tha.
+
+Past History: Epilepsy since childhood.
+
+Physical Examination: Power: 4/5 right limbs; Reflexes: Hyperactive.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: EEG: Abnormal spikes.
+
+Diagnosis: Ischemic Stroke (ICD: I63.9).
+
+Course in Hospital: Antimigraine prophylaxis started. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Clopidogrel 75mg OD.
+
+
+Dr. Arvind Subramanian (Cardiologist)
+Signature

@@ -1,0 +1,6 @@
+# The notes must keep their original Windows (\r\n) line endings byte-for-byte:
+# every character offset in eval/gold/gold.jsonl depends on it. Do not let Git convert them.
+data/Clinical_text/*.txt -text
+
+# Shell scripts must stay LF so they run under Git Bash / Linux after a Windows checkout.
+*.sh text eol=lf

@@ -1,0 +1,38 @@
+Government Hospital Kaithal
+Discharge Summary
+
+Patient Name: Gursharan Singh
+Age/Sex: 5 years/F
+UHID: 215681201
+Admission No: ADM-20268585
+Address: Salt Lake City, Kolkata
+Admission Date: 06/02/2026 12:00 AM
+Discharge Date: 15/02/2026 03:00 PM
+Treating Consultant: Dr. Anita Sharma, Orthopaedics
+
+Chief Complaints: Pain in right knee for 17 months.
+
+History of Present Illness: Pain is sharp and shooting in nature. Patient ko fever tha.
+
+Past History: No history of chronic illness.
+
+Physical Examination: Swelling and tenderness over the right knee joint.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: MRI of the spine shows disc herniation at L4-L5.
+
+Diagnosis: Osteoarthritis of the right knee (ICD: M17.11).
+
+Course in Hospital: Managed conservatively with analgesics and rest. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Avoid lifting heavy weights; Follow-up after 2 weeks.
+
+
+Dr. Arvind Subramanian (Cardiologist)
+Signature

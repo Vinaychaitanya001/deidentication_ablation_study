@@ -1,0 +1,73 @@
+{
+  "name": "ours_lg_3_registry",
+  "nlp_conf": "default (AnalyzerEngine())",
+  "recognizers_conf": "default",
+  "analyzer_conf": null,
+  "ours": {
+    "base": "lg",
+    "steps": [
+      "age",
+      "mrn",
+      "registry"
+    ]
+  },
+  "versions": {
+    "python": "3.14.0",
+    "presidio-analyzer": "2.2.364",
+    "spacy": "3.8.16",
+    "en-core-web-lg": "3.8.0",
+    "en-core-web-trf": "3.8.0",
+    "transformers": "4.57.6",
+    "torch": "2.14.1",
+    "spacy-huggingface-pipelines": "0.0.4"
+  },
+  "supported_entities": [
+    "AGE",
+    "CREDIT_CARD",
+    "CRYPTO",
+    "DATE_TIME",
+    "EMAIL_ADDRESS",
+    "IBAN_CODE",
+    "IN_AADHAAR",
+    "IN_GSTIN",
+    "IN_PAN",
+    "IN_PASSPORT",
+    "IN_VEHICLE_REGISTRATION",
+    "IN_VOTER",
+    "IP_ADDRESS",
+    "LOCATION",
+    "MAC_ADDRESS",
+    "MEDICAL_RECORD_NUMBER",
+    "NRP",
+    "PERSON",
+    "PHONE_NUMBER",
+    "URL"
+  ],
+  "recognizers": [
+    "AgeRecognizer",
+    "CreditCardRecognizer",
+    "CryptoRecognizer",
+    "DateRecognizer",
+    "EmailRecognizer",
+    "FixedInPanRecognizer",
+    "IbanRecognizer",
+    "InAadhaarRecognizer",
+    "InGstinRecognizer",
+    "InPassportRecognizer",
+    "InVehicleRegistrationRecognizer",
+    "InVoterRecognizer",
+    "IpRecognizer",
+    "MacAddressRecognizer",
+    "MedicalRecordNumberRecognizer",
+    "PhoneRecognizer",
+    "SpacyRecognizer",
+    "UrlRecognizer"
+  ],
+  "notes": 100,
+  "detections": 1684,
+  "load_seconds": 20.47,
+  "analyze_seconds_total": 4.07,
+  "ms_per_note": 40.7,
+  "log_messages": 143,
+  "log_messages_with_phi": 0
+}

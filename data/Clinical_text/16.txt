@@ -1,0 +1,38 @@
+Apollo Hospital Chennai
+Discharge Summary
+
+Patient Name: Priya Singh
+Age/Sex: 6 months/F
+UHID: 101648150
+Admission No: ADM-20266340
+Address: Koramangala, Bangalore
+Admission Date: 06/02/2026 12:00 AM
+Discharge Date: 11/02/2026 01:00 PM
+Treating Consultant: Dr. Anjali Desai (Pediatrician), Oncology
+
+Chief Complaints: Unexplained weight loss and fatigue for 13 months.
+
+History of Present Illness: Patient noticed a gradual loss of appetite. Patient ko dard tha.
+
+Past History: No history of major illness.
+
+Physical Examination: Cachexic look, pallor present.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: Mammogram and biopsy confirmed malignancy.
+
+Diagnosis: Carcinoma of the Breast (ICD: C50.9).
+
+Course in Hospital: Patient started on palliative chemotherapy. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Regular follow-up in the oncology OPD.
+
+
+Dr. Randeep Guleria (Pulmonologist)
+Signature

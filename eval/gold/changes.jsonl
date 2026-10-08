@@ -1,0 +1,16 @@
+{"action": "removed", "note": "14", "start": 64, "end": 74, "text": "Baby Priya", "label": "PERSON", "field": "patient_name"}
+{"action": "removed", "note": "29", "start": 54, "end": 64, "text": "Baby Priya", "label": "PERSON", "field": "patient_name"}
+{"action": "removed", "note": "31", "start": 65, "end": 75, "text": "Baby Priya", "label": "PERSON", "field": "patient_name"}
+{"action": "removed", "note": "33", "start": 64, "end": 74, "text": "Baby Aarav", "label": "PERSON", "field": "patient_name"}
+{"action": "removed", "note": "34", "start": 60, "end": 70, "text": "Baby Priya", "label": "PERSON", "field": "patient_name"}
+{"action": "removed", "note": "60", "start": 62, "end": 72, "text": "Baby Aarav", "label": "PERSON", "field": "patient_name"}
+{"action": "removed", "note": "77", "start": 54, "end": 64, "text": "Baby Aarav", "label": "PERSON", "field": "patient_name"}
+{"action": "removed", "note": "97", "start": 65, "end": 75, "text": "Baby Aarav", "label": "PERSON", "field": "patient_name"}
+{"action": "added", "note": "14", "start": 69, "end": 74, "text": "Priya", "label": "PERSON", "field": "reviewer_added"}
+{"action": "added", "note": "29", "start": 59, "end": 64, "text": "Priya", "label": "PERSON", "field": "reviewer_added"}
+{"action": "added", "note": "31", "start": 70, "end": 75, "text": "Priya", "label": "PERSON", "field": "reviewer_added"}
+{"action": "added", "note": "33", "start": 69, "end": 74, "text": "Aarav", "label": "PERSON", "field": "reviewer_added"}
+{"action": "added", "note": "34", "start": 65, "end": 70, "text": "Priya", "label": "PERSON", "field": "reviewer_added"}
+{"action": "added", "note": "60", "start": 67, "end": 72, "text": "Aarav", "label": "PERSON", "field": "reviewer_added"}
+{"action": "added", "note": "77", "start": 59, "end": 64, "text": "Aarav", "label": "PERSON", "field": "reviewer_added"}
+{"action": "added", "note": "97", "start": 70, "end": 75, "text": "Aarav", "label": "PERSON", "field": "reviewer_added"}

@@ -1,0 +1,38 @@
+Safdarjung Hospital Delhi
+Discharge Summary
+
+Patient Name: Ajay Singh
+Age/Sex: 62/M
+UHID: 998227122
+Admission No: ADM-20262318
+Address: Jaipur, Rajasthan
+Admission Date: 02/02/2026 09:00 AM
+Discharge Date: 13/02/2026 02:00 PM
+Treating Consultant: Dr. Naresh Trehan (Cardiac Surgeon), Oncology
+
+Chief Complaints: Lump in the breast for 21 weeks.
+
+History of Present Illness: The lump is painless and hard to touch. Patient ko dard tha.
+
+Past History: Family history of cancer.
+
+Physical Examination: 2x2 cm hard lump in the upper outer quadrant of the left breast.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: CBC shows anemia. PET scan shows metastasis.
+
+Diagnosis: Carcinoma of the Breast (ICD: C50.9).
+
+Course in Hospital: Underwent mastectomy followed by chemotherapy. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Regular follow-up in the oncology OPD.
+
+
+Dr. Naresh Trehan (Cardiac Surgeon)
+Signature

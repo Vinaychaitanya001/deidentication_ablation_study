@@ -1,0 +1,38 @@
+Tata Memorial Hospital Mumbai
+Discharge Summary
+
+Patient Name: Anitha Rao
+Age/Sex: 17 years/M
+UHID: 489666083
+Admission No: ADM-20265348
+Address: Anna Nagar, Chennai
+Admission Date: 08/02/2026 11:00 AM
+Discharge Date: 11/02/2026 01:00 PM
+Treating Consultant: Dr. Naresh Trehan (Cardiac Surgeon), Oncology
+
+Chief Complaints: Lump in the breast for 10 weeks.
+
+History of Present Illness: The lump is painless and hard to touch. Patient ko dard tha.
+
+Past History: No history of major illness.
+
+Physical Examination: 2x2 cm hard lump in the upper outer quadrant of the left breast.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: Mammogram and biopsy confirmed malignancy.
+
+Diagnosis: Carcinoma of the Breast (ICD: C50.9).
+
+Course in Hospital: Patient started on palliative chemotherapy. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- High protein diet.
+
+
+Dr. Arvind Subramanian (Cardiologist)
+Signature

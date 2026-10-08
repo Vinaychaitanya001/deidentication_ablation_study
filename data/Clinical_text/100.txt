@@ -1,0 +1,38 @@
+Medanta The Medicity Gurgaon
+Discharge Summary
+
+Patient Name: Suresh Iyer
+Age/Sex: 22/M
+UHID: 489666083
+Admission No: ADM-20264745
+Address: Varanasi, Uttar Pradesh
+Admission Date: 06/02/2026 12:00 AM
+Discharge Date: 13/02/2026 01:00 PM
+Treating Consultant: Dr. Vikram Singh, Neurology
+
+Chief Complaints: Severe headache with nausea for 22 days.
+
+History of Present Illness: Migraine-like, photophobia. Patient ko weakness feel kar raha tha.
+
+Past History: Epilepsy since childhood.
+
+Physical Examination: Power: 3/5 right limbs; Reflexes: Hyperactive.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: MRI: Left MCA infarct; CT: No bleed.
+
+Diagnosis: Ischemic Stroke (ICD: I63.9).
+
+Course in Hospital: IV thrombolysis, physiotherapy. Improved. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Clopidogrel 75mg OD.
+
+
+Dr. Neha Patel
+Signature

@@ -1,0 +1,38 @@
+Government Hospital Kaithal
+Discharge Summary
+
+Patient Name: Anitha Rao
+Age/Sex: 58/F
+UHID: 743306313
+Admission No: ADM-20266079
+Address: Anna Nagar, Chennai
+Admission Date: 09/02/2026 11:00 AM
+Discharge Date: 13/02/2026 02:00 PM
+Treating Consultant: Dr. Rajesh Kumar, Oncology
+
+Chief Complaints: Lump in the breast for 30 weeks.
+
+History of Present Illness: The lump is painless and hard to touch. Patient ko fever tha.
+
+Past History: Family history of cancer.
+
+Physical Examination: Cachexic look, pallor present.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: CBC shows anemia. PET scan shows metastasis.
+
+Diagnosis: Carcinoma of the Breast (ICD: C50.9).
+
+Course in Hospital: Patient started on palliative chemotherapy. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- High protein diet.
+
+
+Dr. Naresh Trehan (Cardiac Surgeon)
+Signature

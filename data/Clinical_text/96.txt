@@ -1,0 +1,38 @@
+Government Hospital Kaithal
+Discharge Summary
+
+Patient Name: Divya Krishnan
+Age/Sex: 8 months/M
+UHID: 491664291
+Admission No: ADM-20263484
+Address: HITEC City, Hyderabad
+Admission Date: 02/02/2026 11:00 AM
+Discharge Date: 12/02/2026 02:00 PM
+Treating Consultant: Dr. Vikram Singh, Orthopaedics
+
+Chief Complaints: Pain in right knee for 29 months.
+
+History of Present Illness: Pain increases on walking and climbing stairs. Patient ko fever tha.
+
+Past History: History of fall a few years back.
+
+Physical Examination: Restricted range of motion of the lumbar spine.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: X-ray of the knee shows degenerative changes.
+
+Diagnosis: Lumbar Disc Herniation (ICD: M51.26).
+
+Course in Hospital: Managed conservatively with analgesics and rest. No major complications, but monitored for dengue-like symptoms.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Paracetamol 650mg SOS for pain.
+
+
+Dr. Anita Sharma
+Signature

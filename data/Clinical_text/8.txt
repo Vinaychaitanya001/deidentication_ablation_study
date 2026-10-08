@@ -1,0 +1,38 @@
+Tata Memorial Hospital Mumbai
+Discharge Summary
+
+Patient Name: Anjali Shah
+Age/Sex: 35/M
+UHID: 828780773
+Admission No: ADM-20260523
+Address: Moga, Punjab
+Admission Date: 04/02/2026 10:00 AM
+Discharge Date: 14/02/2026 02:00 PM
+Treating Consultant: Dr. Naresh Trehan (Cardiac Surgeon), Oncology
+
+Chief Complaints: Lump in the breast for 5 weeks.
+
+History of Present Illness: Patient noticed a gradual loss of appetite. Patient ko dard tha.
+
+Past History: No history of major illness.
+
+Physical Examination: Cachexic look, pallor present.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: Mammogram and biopsy confirmed malignancy.
+
+Diagnosis: Carcinoma of the Breast (ICD: C50.9).
+
+Course in Hospital: Underwent mastectomy followed by chemotherapy. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- High protein diet.
+
+
+Dr. Anjali Desai (Pediatrician)
+Signature

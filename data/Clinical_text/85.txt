@@ -1,0 +1,38 @@
+Safdarjung Hospital Delhi
+Discharge Summary
+
+Patient Name: Anjali Shah
+Age/Sex: 75/F
+UHID: 334075510
+Admission No: ADM-20268491
+Address: Kaithal, Haryana
+Admission Date: 07/02/2026 11:00 AM
+Discharge Date: 12/02/2026 01:00 PM
+Treating Consultant: Dr. Rajesh Kumar, Oncology
+
+Chief Complaints: Unexplained weight loss and fatigue for 11 months.
+
+History of Present Illness: The lump is painless and hard to touch. Patient ko fever tha.
+
+Past History: Family history of cancer.
+
+Physical Examination: Cachexic look, pallor present.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: Mammogram and biopsy confirmed malignancy.
+
+Diagnosis: Metastatic Adenocarcinoma of unknown primary (ICD: C80.0).
+
+Course in Hospital: Patient started on palliative chemotherapy. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- High protein diet.
+
+
+Dr. Vikram Singh
+Signature

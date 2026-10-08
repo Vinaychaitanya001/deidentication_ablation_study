@@ -1,0 +1,38 @@
+Government Hospital Kaithal
+Discharge Summary
+
+Patient Name: Gursharan Singh
+Age/Sex: 62/M
+UHID: 743306313
+Admission No: ADM-20262275
+Address: Varanasi, Uttar Pradesh
+Admission Date: 05/02/2026 10:00 AM
+Discharge Date: 13/02/2026 01:00 PM
+Treating Consultant: Dr. Naresh Trehan (Cardiac Surgeon), Neurology
+
+Chief Complaints: Right side weakness aur bolne mein difficulty for 12 days.
+
+History of Present Illness: Sudden onset, with facial droop. Patient ko weakness feel kar raha tha.
+
+Past History: Hypertension, smoker.
+
+Physical Examination: Power: 4/5 right limbs; Reflexes: Hyperactive.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: MRI: Left MCA infarct; CT: No bleed.
+
+Diagnosis: Ischemic Stroke (ICD: I63.9).
+
+Course in Hospital: IV thrombolysis, physiotherapy. Improved. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Tulsi for cough.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Clopidogrel 75mg OD.
+
+
+Dr. Anjali Desai (Pediatrician)
+Signature

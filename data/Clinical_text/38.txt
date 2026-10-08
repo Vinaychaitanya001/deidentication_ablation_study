@@ -1,0 +1,38 @@
+Safdarjung Hospital Delhi
+Discharge Summary
+
+Patient Name: Ravi Kumar
+Age/Sex: 17 years/M
+UHID: 998227122
+Admission No: ADM-20266812
+Address: Anna Nagar, Chennai
+Admission Date: 07/02/2026 12:00 AM
+Discharge Date: 10/02/2026 03:00 PM
+Treating Consultant: Dr. Rajesh Kumar, Oncology
+
+Chief Complaints: Unexplained weight loss and fatigue for 29 months.
+
+History of Present Illness: The lump is painless and hard to touch. Patient ko weakness feel kar raha tha.
+
+Past History: No history of major illness.
+
+Physical Examination: Cachexic look, pallor present.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: CBC shows anemia. PET scan shows metastasis.
+
+Diagnosis: Carcinoma of the Breast (ICD: C50.9).
+
+Course in Hospital: Patient started on palliative chemotherapy. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Tulsi for cough.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- High protein diet.
+
+
+Dr. Rajesh Kumar
+Signature

@@ -1,0 +1,38 @@
+Max Super Speciality Hospital Delhi
+Discharge Summary
+
+Patient Name: Mohan Lal
+Age/Sex: 75/F
+UHID: 101648150
+Admission No: ADM-20266561
+Address: Kaithal, Haryana
+Admission Date: 09/02/2026 11:00 AM
+Discharge Date: 11/02/2026 02:00 PM
+Treating Consultant: Dr. Vikram Singh, Neurology
+
+Chief Complaints: Right side weakness aur bolne mein difficulty for 19 days.
+
+History of Present Illness: Migraine-like, photophobia. Patient ko weakness feel kar raha tha.
+
+Past History: Epilepsy since childhood.
+
+Physical Examination: Cranial nerves: Intact.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: EEG: Abnormal spikes.
+
+Diagnosis: Ischemic Stroke (ICD: I63.9).
+
+Course in Hospital: IV thrombolysis, physiotherapy. Improved. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Avoid triggers; Follow-up: 10 days.
+
+
+Dr. Arvind Subramanian (Cardiologist)
+Signature

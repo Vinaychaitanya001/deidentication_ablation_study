@@ -1,0 +1,38 @@
+Apollo Hospital Chennai
+Discharge Summary
+
+Patient Name: Baby Priya
+Age/Sex: 35/M
+UHID: 932001798
+Admission No: ADM-20267202
+Address: Anna Nagar, Chennai
+Admission Date: 01/02/2026 11:00 AM
+Discharge Date: 10/02/2026 01:00 PM
+Treating Consultant: Dr. Neha Patel, General_medicine
+
+Chief Complaints: Fever aur cough for 26 days.
+
+History of Present Illness: Epigastric, post-meal. Patient ko fever tha.
+
+Past History: GERD history.
+
+Physical Examination: Temp: 102°F; Chest: Crepitations.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: CBC: WBC high; X-ray: Pneumonia.
+
+Diagnosis: Community-Acquired Pneumonia (ICD: J18.9).
+
+Course in Hospital: PPI and antacids given. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Diet: Bland; Follow-up: 1 week.
+
+
+Dr. Rajesh Kumar
+Signature

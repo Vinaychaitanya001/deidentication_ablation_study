@@ -1,0 +1,62 @@
+{
+  "machine": "Intel64 Family 6 Model 165 Stepping 2, GenuineIntel",
+  "python": "3.14.0",
+  "notes": 100,
+  "systems": {
+    "baseline": {
+      "load_seconds": 24.5,
+      "ms_per_note_median": 38.4,
+      "ms_per_note_passes": [
+        39.2,
+        37.6
+      ]
+    },
+    "ours_lg_final": {
+      "load_seconds": 5.1,
+      "ms_per_note_median": 44.9,
+      "ms_per_note_passes": [
+        51.4,
+        38.5
+      ]
+    },
+    "cfg_spacy_trf": {
+      "load_seconds": 12.2,
+      "ms_per_note_median": 607.6,
+      "ms_per_note_passes": [
+        635.1,
+        580.1
+      ]
+    },
+    "ours_trf_final": {
+      "load_seconds": 9.9,
+      "ms_per_note_median": 595.5,
+      "ms_per_note_passes": [
+        648.6,
+        542.3
+      ]
+    },
+    "cfg_stanford_deid": {
+      "load_seconds": 4.4,
+      "ms_per_note_median": 305.1,
+      "ms_per_note_passes": [
+        326.9,
+        283.4
+      ]
+    },
+    "ours_stanford_final": {
+      "load_seconds": 2.7,
+      "ms_per_note_median": 314.4,
+      "ms_per_note_passes": [
+        327.0,
+        301.8
+      ]
+    },
+    "cfg_gliner": {
+      "load_seconds": 15.2,
+      "ms_per_note_median": 2127.0,
+      "ms_per_note_passes": [
+        2127.0
+      ]
+    }
+  }
+}

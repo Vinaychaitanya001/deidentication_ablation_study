@@ -1,0 +1,38 @@
+Tata Memorial Hospital Mumbai
+Discharge Summary
+
+Patient Name: Pooja Sharma
+Age/Sex: 8 months/M
+UHID: 686394080
+Admission No: ADM-20262275
+Address: Moga, Punjab
+Admission Date: 01/02/2026 08:00 AM
+Discharge Date: 14/02/2026 01:00 PM
+Treating Consultant: Dr. Arvind Subramanian (Cardiologist), Pediatrics
+
+Chief Complaints: Fever and rash for 8 days.
+
+History of Present Illness: High fever, measles-like rash. Patient ko fever tha.
+
+Past History: Recent URI.
+
+Physical Examination: Dehydrated, abdomen soft.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: CRP: Positive.
+
+Diagnosis: Viral Exanthem (ICD: B09).
+
+Course in Hospital: Symptomatic treatment, resolved. No major complications, but monitored for dengue-like symptoms.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Tulsi for cough.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Diet: Breastfeed; Follow-up: 5 days.
+
+
+Dr. Anita Sharma
+Signature

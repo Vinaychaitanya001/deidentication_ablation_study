@@ -1,0 +1,38 @@
+Safdarjung Hospital Delhi
+Discharge Summary
+
+Patient Name: Joseph D'Souza
+Age/Sex: 58/F
+UHID: 120545096
+Admission No: ADM-20267202
+Address: Anna Nagar, Chennai
+Admission Date: 03/02/2026 11:00 AM
+Discharge Date: 13/02/2026 03:00 PM
+Treating Consultant: Dr. Naresh Trehan (Cardiac Surgeon), Orthopaedics
+
+Chief Complaints: Pain in right knee for 8 months.
+
+History of Present Illness: Pain is sharp and shooting in nature. Patient ko dard tha.
+
+Past History: History of fall a few years back.
+
+Physical Examination: Restricted range of motion of the lumbar spine.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: X-ray of the knee shows degenerative changes.
+
+Diagnosis: Lumbar Disc Herniation (ICD: M51.26).
+
+Course in Hospital: Advised for physiotherapy and lifestyle modifications. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Paracetamol 650mg SOS for pain.
+
+
+Dr. Neha Patel
+Signature

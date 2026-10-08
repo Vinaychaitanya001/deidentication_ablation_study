@@ -1,0 +1,38 @@
+Max Super Speciality Hospital Delhi
+Discharge Summary
+
+Patient Name: Veena Kumari
+Age/Sex: 58/F
+UHID: 892515314
+Admission No: ADM-20260803
+Address: Bandra West, Mumbai
+Admission Date: 09/02/2026 09:00 AM
+Discharge Date: 10/02/2026 02:00 PM
+Treating Consultant: Dr. Naresh Trehan (Cardiac Surgeon), Neurology
+
+Chief Complaints: Severe headache with nausea for 21 days.
+
+History of Present Illness: Sudden onset, with facial droop. Patient ko fever tha.
+
+Past History: Hypertension, smoker.
+
+Physical Examination: Power: 4/5 right limbs; Reflexes: Hyperactive.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: EEG: Abnormal spikes.
+
+Diagnosis: Migraine (ICD: G43.9).
+
+Course in Hospital: IV thrombolysis, physiotherapy. Improved. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Clopidogrel 75mg OD.
+
+
+Dr. Rajesh Kumar
+Signature

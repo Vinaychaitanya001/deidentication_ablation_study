@@ -1,0 +1,444 @@
+{
+  "run": "ours_stanford_3_registry",
+  "split": "dev",
+  "notes": 50,
+  "threshold": 0.0,
+  "gold_file": "E:\\sem3\\independent_study\\understandingpresidio\\eval\\gold\\gold.jsonl",
+  "strict": {
+    "micro": {
+      "precision": 0.494,
+      "recall": 0.464,
+      "f1": 0.4786,
+      "pred": 672,
+      "gold": 500,
+      "pred_matched": 332,
+      "gold_matched": 232
+    },
+    "per_label": {
+      "PERSON": {
+        "precision": 0.2446,
+        "recall": 0.3,
+        "f1": 0.2695,
+        "pred": 184,
+        "gold": 150,
+        "pred_matched": 45,
+        "gold_matched": 45
+      },
+      "AGE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "pred": 50,
+        "gold": 50,
+        "pred_matched": 50,
+        "gold_matched": 50
+      },
+      "DATE_TIME": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "pred": 100,
+        "gold": 100,
+        "pred_matched": 0,
+        "gold_matched": 0
+      },
+      "ID": {
+        "precision": 0.8547,
+        "recall": 1.0,
+        "f1": 0.9217,
+        "pred": 234,
+        "gold": 100,
+        "pred_matched": 200,
+        "gold_matched": 100
+      },
+      "LOCATION": {
+        "precision": 0.3558,
+        "recall": 0.74,
+        "f1": 0.4805,
+        "pred": 104,
+        "gold": 50,
+        "pred_matched": 37,
+        "gold_matched": 37
+      },
+      "ORGANIZATION": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "pred": 0,
+        "gold": 50,
+        "pred_matched": 0,
+        "gold_matched": 0
+      }
+    }
+  },
+  "overlap": {
+    "micro": {
+      "precision": 0.8244,
+      "recall": 0.9,
+      "f1": 0.8605,
+      "pred": 672,
+      "gold": 500,
+      "pred_matched": 554,
+      "gold_matched": 450
+    },
+    "per_label": {
+      "PERSON": {
+        "precision": 0.8152,
+        "recall": 1.0,
+        "f1": 0.8982,
+        "pred": 184,
+        "gold": 150,
+        "pred_matched": 150,
+        "gold_matched": 150
+      },
+      "AGE": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "pred": 50,
+        "gold": 50,
+        "pred_matched": 50,
+        "gold_matched": 50
+      },
+      "DATE_TIME": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1": 1.0,
+        "pred": 100,
+        "gold": 100,
+        "pred_matched": 100,
+        "gold_matched": 100
+      },
+      "ID": {
+        "precision": 0.8547,
+        "recall": 1.0,
+        "f1": 0.9217,
+        "pred": 234,
+        "gold": 100,
+        "pred_matched": 200,
+        "gold_matched": 100
+      },
+      "LOCATION": {
+        "precision": 0.5192,
+        "recall": 1.0,
+        "f1": 0.6835,
+        "pred": 104,
+        "gold": 50,
+        "pred_matched": 54,
+        "gold_matched": 50
+      },
+      "ORGANIZATION": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "pred": 0,
+        "gold": 50,
+        "pred_matched": 0,
+        "gold_matched": 0
+      }
+    }
+  },
+  "any": {
+    "micro": {
+      "precision": 0.9315,
+      "recall": 1.0,
+      "f1": 0.9646,
+      "pred": 672,
+      "gold": 500,
+      "pred_matched": 626,
+      "gold_matched": 500
+    },
+    "per_label": {
+      "PERSON": {
+        "recall": 1.0,
+        "gold": 150,
+        "gold_matched": 150
+      },
+      "AGE": {
+        "recall": 1.0,
+        "gold": 50,
+        "gold_matched": 50
+      },
+      "DATE_TIME": {
+        "recall": 1.0,
+        "gold": 100,
+        "gold_matched": 100
+      },
+      "ID": {
+        "recall": 1.0,
+        "gold": 100,
+        "gold_matched": 100
+      },
+      "LOCATION": {
+        "recall": 1.0,
+        "gold": 50,
+        "gold_matched": 50
+      },
+      "ORGANIZATION": {
+        "recall": 1.0,
+        "gold": 50,
+        "gold_matched": 50
+      }
+    }
+  },
+  "char": {
+    "phi_chars": 7365,
+    "phi_chars_covered": 6435,
+    "phi_char_recall": 0.8737,
+    "pred_char_precision": 0.9021
+  },
+  "threshold_sweep": [
+    {
+      "threshold": 0.0,
+      "overlap": {
+        "precision": 0.8244,
+        "recall": 0.9,
+        "f1": 0.8605,
+        "pred": 672,
+        "gold": 500,
+        "pred_matched": 554,
+        "gold_matched": 450
+      },
+      "any": {
+        "precision": 0.9315,
+        "recall": 1.0,
+        "f1": 0.9646,
+        "pred": 672,
+        "gold": 500,
+        "pred_matched": 626,
+        "gold_matched": 500
+      }
+    },
+    {
+      "threshold": 0.1,
+      "overlap": {
+        "precision": 0.8244,
+        "recall": 0.9,
+        "f1": 0.8605,
+        "pred": 672,
+        "gold": 500,
+        "pred_matched": 554,
+        "gold_matched": 450
+      },
+      "any": {
+        "precision": 0.9315,
+        "recall": 1.0,
+        "f1": 0.9646,
+        "pred": 672,
+        "gold": 500,
+        "pred_matched": 626,
+        "gold_matched": 500
+      }
+    },
+    {
+      "threshold": 0.2,
+      "overlap": {
+        "precision": 0.8244,
+        "recall": 0.9,
+        "f1": 0.8605,
+        "pred": 672,
+        "gold": 500,
+        "pred_matched": 554,
+        "gold_matched": 450
+      },
+      "any": {
+        "precision": 0.9315,
+        "recall": 1.0,
+        "f1": 0.9646,
+        "pred": 672,
+        "gold": 500,
+        "pred_matched": 626,
+        "gold_matched": 500
+      }
+    },
+    {
+      "threshold": 0.3,
+      "overlap": {
+        "precision": 0.8445,
+        "recall": 0.9,
+        "f1": 0.8714,
+        "pred": 656,
+        "gold": 500,
+        "pred_matched": 554,
+        "gold_matched": 450
+      },
+      "any": {
+        "precision": 0.9543,
+        "recall": 1.0,
+        "f1": 0.9766,
+        "pred": 656,
+        "gold": 500,
+        "pred_matched": 626,
+        "gold_matched": 500
+      }
+    },
+    {
+      "threshold": 0.4,
+      "overlap": {
+        "precision": 0.8609,
+        "recall": 0.9,
+        "f1": 0.88,
+        "pred": 604,
+        "gold": 500,
+        "pred_matched": 520,
+        "gold_matched": 450
+      },
+      "any": {
+        "precision": 0.9801,
+        "recall": 1.0,
+        "f1": 0.99,
+        "pred": 604,
+        "gold": 500,
+        "pred_matched": 592,
+        "gold_matched": 500
+      }
+    },
+    {
+      "threshold": 0.5,
+      "overlap": {
+        "precision": 0.8454,
+        "recall": 0.9,
+        "f1": 0.8719,
+        "pred": 537,
+        "gold": 500,
+        "pred_matched": 454,
+        "gold_matched": 450
+      },
+      "any": {
+        "precision": 0.9795,
+        "recall": 1.0,
+        "f1": 0.9897,
+        "pred": 537,
+        "gold": 500,
+        "pred_matched": 526,
+        "gold_matched": 500
+      }
+    },
+    {
+      "threshold": 0.6,
+      "overlap": {
+        "precision": 0.8515,
+        "recall": 0.9,
+        "f1": 0.8751,
+        "pred": 532,
+        "gold": 500,
+        "pred_matched": 453,
+        "gold_matched": 450
+      },
+      "any": {
+        "precision": 0.9812,
+        "recall": 1.0,
+        "f1": 0.9905,
+        "pred": 532,
+        "gold": 500,
+        "pred_matched": 522,
+        "gold_matched": 500
+      }
+    },
+    {
+      "threshold": 0.7,
+      "overlap": {
+        "precision": 0.8626,
+        "recall": 0.898,
+        "f1": 0.8799,
+        "pred": 524,
+        "gold": 500,
+        "pred_matched": 452,
+        "gold_matched": 449
+      },
+      "any": {
+        "precision": 0.9905,
+        "recall": 0.998,
+        "f1": 0.9942,
+        "pred": 524,
+        "gold": 500,
+        "pred_matched": 519,
+        "gold_matched": 499
+      }
+    },
+    {
+      "threshold": 0.8,
+      "overlap": {
+        "precision": 0.8784,
+        "recall": 0.894,
+        "f1": 0.8861,
+        "pred": 510,
+        "gold": 500,
+        "pred_matched": 448,
+        "gold_matched": 447
+      },
+      "any": {
+        "precision": 0.998,
+        "recall": 0.992,
+        "f1": 0.995,
+        "pred": 510,
+        "gold": 500,
+        "pred_matched": 509,
+        "gold_matched": 496
+      }
+    },
+    {
+      "threshold": 0.85,
+      "overlap": {
+        "precision": 0.8878,
+        "recall": 0.884,
+        "f1": 0.8859,
+        "pred": 499,
+        "gold": 500,
+        "pred_matched": 443,
+        "gold_matched": 442
+      },
+      "any": {
+        "precision": 1.0,
+        "recall": 0.984,
+        "f1": 0.9919,
+        "pred": 499,
+        "gold": 500,
+        "pred_matched": 499,
+        "gold_matched": 492
+      }
+    },
+    {
+      "threshold": 0.9,
+      "overlap": {
+        "precision": 0.8992,
+        "recall": 0.872,
+        "f1": 0.8854,
+        "pred": 486,
+        "gold": 500,
+        "pred_matched": 437,
+        "gold_matched": 436
+      },
+      "any": {
+        "precision": 1.0,
+        "recall": 0.968,
+        "f1": 0.9837,
+        "pred": 486,
+        "gold": 500,
+        "pred_matched": 486,
+        "gold_matched": 484
+      }
+    },
+    {
+      "threshold": 0.95,
+      "overlap": {
+        "precision": 0.9112,
+        "recall": 0.86,
+        "f1": 0.8849,
+        "pred": 473,
+        "gold": 500,
+        "pred_matched": 431,
+        "gold_matched": 430
+      },
+      "any": {
+        "precision": 1.0,
+        "recall": 0.944,
+        "f1": 0.9712,
+        "pred": 473,
+        "gold": 500,
+        "pred_matched": 473,
+        "gold_matched": 472
+      }
+    }
+  ]
+}

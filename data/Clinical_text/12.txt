@@ -1,0 +1,38 @@
+Safdarjung Hospital Delhi
+Discharge Summary
+
+Patient Name: Divya Krishnan
+Age/Sex: 17 years/M
+UHID: 537954366
+Admission No: ADM-20262318
+Address: Anna Nagar, Chennai
+Admission Date: 08/02/2026 10:00 AM
+Discharge Date: 12/02/2026 02:00 PM
+Treating Consultant: Dr. Anjali Desai (Pediatrician), Pediatrics
+
+Chief Complaints: Loose motions aur vomiting for 18 days.
+
+History of Present Illness: Acute, with mild dehydration. Patient ko fever tha.
+
+Past History: Recent URI.
+
+Physical Examination: Temp: 102°F, throat congested.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: CRP: Positive.
+
+Diagnosis: Acute Gastroenteritis (ICD: A09).
+
+Course in Hospital: Symptomatic treatment, resolved. No major complications, but monitored for dengue-like symptoms.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Tulsi for cough.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Diet: Breastfeed; Follow-up: 5 days.
+
+
+Dr. Neha Patel
+Signature

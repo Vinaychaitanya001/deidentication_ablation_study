@@ -1,0 +1,735 @@
+{
+ "reviewer": "Claude (AI) - full systematic review of all lines, 2026-10-05",
+ "reviewed": 100,
+ "total": 100,
+ "notes": {
+  "1": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "2": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "3": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "4": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "5": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "6": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "7": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "8": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "9": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "10": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "11": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "12": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "13": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "14": {
+   "status": "fix",
+   "comment": "'Baby' is a newborn prefix, not part of the name (guideline rule 1)",
+   "removed": [
+    {
+     "note": "14",
+     "start": 64,
+     "end": 74,
+     "text": "Baby Priya",
+     "label": "PERSON",
+     "field": "patient_name"
+    }
+   ],
+   "added": [
+    {
+     "start": 69,
+     "end": 74,
+     "text": "Priya",
+     "label": "PERSON"
+    }
+   ]
+  },
+  "15": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "16": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "17": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "18": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "19": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "20": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "21": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "22": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "23": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "24": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "25": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "26": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "27": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "28": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "29": {
+   "status": "fix",
+   "comment": "'Baby' is a newborn prefix, not part of the name (guideline rule 1)",
+   "removed": [
+    {
+     "note": "29",
+     "start": 54,
+     "end": 64,
+     "text": "Baby Priya",
+     "label": "PERSON",
+     "field": "patient_name"
+    }
+   ],
+   "added": [
+    {
+     "start": 59,
+     "end": 64,
+     "text": "Priya",
+     "label": "PERSON"
+    }
+   ]
+  },
+  "30": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "31": {
+   "status": "fix",
+   "comment": "'Baby' is a newborn prefix, not part of the name (guideline rule 1)",
+   "removed": [
+    {
+     "note": "31",
+     "start": 65,
+     "end": 75,
+     "text": "Baby Priya",
+     "label": "PERSON",
+     "field": "patient_name"
+    }
+   ],
+   "added": [
+    {
+     "start": 70,
+     "end": 75,
+     "text": "Priya",
+     "label": "PERSON"
+    }
+   ]
+  },
+  "32": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "33": {
+   "status": "fix",
+   "comment": "'Baby' is a newborn prefix, not part of the name (guideline rule 1)",
+   "removed": [
+    {
+     "note": "33",
+     "start": 64,
+     "end": 74,
+     "text": "Baby Aarav",
+     "label": "PERSON",
+     "field": "patient_name"
+    }
+   ],
+   "added": [
+    {
+     "start": 69,
+     "end": 74,
+     "text": "Aarav",
+     "label": "PERSON"
+    }
+   ]
+  },
+  "34": {
+   "status": "fix",
+   "comment": "'Baby' is a newborn prefix, not part of the name (guideline rule 1)",
+   "removed": [
+    {
+     "note": "34",
+     "start": 60,
+     "end": 70,
+     "text": "Baby Priya",
+     "label": "PERSON",
+     "field": "patient_name"
+    }
+   ],
+   "added": [
+    {
+     "start": 65,
+     "end": 70,
+     "text": "Priya",
+     "label": "PERSON"
+    }
+   ]
+  },
+  "35": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "36": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "37": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "38": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "39": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "40": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "41": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "42": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "43": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "44": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "45": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "46": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "47": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "48": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "49": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "50": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "51": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "52": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "53": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "54": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "55": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "56": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "57": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "58": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "59": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "60": {
+   "status": "fix",
+   "comment": "'Baby' is a newborn prefix, not part of the name (guideline rule 1)",
+   "removed": [
+    {
+     "note": "60",
+     "start": 62,
+     "end": 72,
+     "text": "Baby Aarav",
+     "label": "PERSON",
+     "field": "patient_name"
+    }
+   ],
+   "added": [
+    {
+     "start": 67,
+     "end": 72,
+     "text": "Aarav",
+     "label": "PERSON"
+    }
+   ]
+  },
+  "61": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "62": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "63": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "64": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "65": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "66": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "67": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "68": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "69": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "70": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "71": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "72": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "73": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "74": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "75": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "76": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "77": {
+   "status": "fix",
+   "comment": "'Baby' is a newborn prefix, not part of the name (guideline rule 1)",
+   "removed": [
+    {
+     "note": "77",
+     "start": 54,
+     "end": 64,
+     "text": "Baby Aarav",
+     "label": "PERSON",
+     "field": "patient_name"
+    }
+   ],
+   "added": [
+    {
+     "start": 59,
+     "end": 64,
+     "text": "Aarav",
+     "label": "PERSON"
+    }
+   ]
+  },
+  "78": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "79": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "80": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "81": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "82": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "83": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "84": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "85": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "86": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "87": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "88": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "89": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "90": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "91": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "92": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "93": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "94": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "95": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "96": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "97": {
+   "status": "fix",
+   "comment": "'Baby' is a newborn prefix, not part of the name (guideline rule 1)",
+   "removed": [
+    {
+     "note": "97",
+     "start": 65,
+     "end": 75,
+     "text": "Baby Aarav",
+     "label": "PERSON",
+     "field": "patient_name"
+    }
+   ],
+   "added": [
+    {
+     "start": 70,
+     "end": 75,
+     "text": "Aarav",
+     "label": "PERSON"
+    }
+   ]
+  },
+  "98": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "99": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  },
+  "100": {
+   "status": "ok",
+   "comment": "",
+   "removed": [],
+   "added": []
+  }
+ }
+}

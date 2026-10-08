@@ -1,0 +1,38 @@
+Tata Memorial Hospital Mumbai
+Discharge Summary
+
+Patient Name: Mohammed Ali
+Age/Sex: 28/F
+UHID: 120545096
+Admission No: ADM-20266340
+Address: Connaught Place, New Delhi
+Admission Date: 07/02/2026 08:00 AM
+Discharge Date: 15/02/2026 03:00 PM
+Treating Consultant: Dr. Vikram Singh, General_medicine
+
+Chief Complaints: Fever aur cough for 9 days.
+
+History of Present Illness: Productive cough, no hemoptysis. Patient ko fever tha.
+
+Past History: Diabetes on insulin.
+
+Physical Examination: Abdomen: Tender epigastrium.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: Endoscopy: Gastritis.
+
+Diagnosis: Acute Gastritis (ICD: K29.00).
+
+Course in Hospital: PPI and antacids given. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Diet: Bland; Follow-up: 1 week.
+
+
+Dr. Rajesh Kumar
+Signature

@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gold Label Review</title>
+<style>
+:root {
+  --bg: #f7f7f5; --panel: #ffffff; --text: #1d1d1b; --muted: #6b6b66; --border: #dcdcd6;
+  --accent: #2f5bd3; --ok: #1e7b45; --warn: #b5461b;
+  --PERSON: #ffd6a5; --AGE: #caffbf; --DATE_TIME: #9bf6ff; --ID: #ffc6ff;
+  --LOCATION: #fdffb6; --ORGANIZATION: #bdb2ff; --ADDED: #ff9b9b;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161615; --panel: #1f1f1d; --text: #ececea; --muted: #a3a39c; --border: #3a3a36;
+    --accent: #8aa8ff; --ok: #6fd39a; --warn: #ff9a6e;
+    --PERSON: #7a4b12; --AGE: #2f6b26; --DATE_TIME: #145e66; --ID: #6b2a6b;
+    --LOCATION: #6a6b1d; --ORGANIZATION: #3d3380; --ADDED: #7d2323;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #161615; --panel: #1f1f1d; --text: #ececea; --muted: #a3a39c; --border: #3a3a36;
+  --accent: #8aa8ff; --ok: #6fd39a; --warn: #ff9a6e;
+  --PERSON: #7a4b12; --AGE: #2f6b26; --DATE_TIME: #145e66; --ID: #6b2a6b;
+  --LOCATION: #6a6b1d; --ORGANIZATION: #3d3380; --ADDED: #7d2323;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif; }
+header { position: sticky; top: 0; z-index: 2; background: var(--panel);
+  border-bottom: 1px solid var(--border); padding: 10px 16px;
+  display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+header h1 { font-size: 17px; margin: 0 12px 0 0; }
+main { max-width: 980px; margin: 0 auto; padding: 16px; }
+button, select { font: inherit; padding: 5px 11px; border-radius: 6px;
+  border: 1px solid var(--border); background: var(--panel); color: var(--text); cursor: pointer; }
+button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+.legend { display: flex; flex-wrap: wrap; gap: 6px; font-size: 13px; }
+.legend span, mark { padding: 0 3px; border-radius: 3px; color: var(--text); }
+.progress { margin-left: auto; font-size: 14px; color: var(--muted); }
+.card { background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
+  margin: 0 0 16px; padding: 14px 16px; }
+.card.ok { border-left: 5px solid var(--ok); }
+.card.fix { border-left: 5px solid var(--warn); }
+.card h2 { font-size: 16px; margin: 0 0 8px; display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+pre.note { white-space: pre-wrap; word-break: break-word; font: 13.5px/1.55 ui-monospace, Consolas, monospace;
+  margin: 0 0 10px; padding: 10px; border: 1px solid var(--border); border-radius: 6px; }
+mark { cursor: pointer; }
+mark.removed { text-decoration: line-through; opacity: .45; }
+mark.added { outline: 2px dashed var(--warn); }
+.toolbar { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 6px 0; }
+textarea { width: 100%; min-height: 44px; font: inherit; padding: 6px; border-radius: 6px;
+  border: 1px solid var(--border); background: var(--bg); color: var(--text); }
+.hint { color: var(--muted); font-size: 13px; }
+details.cands { background: var(--panel); border: 1px solid var(--border); border-radius: 10px;
+  padding: 10px 16px; margin-bottom: 16px; }
+.cands ul { columns: 4 140px; margin: 8px 0 0; padding-left: 18px; font-size: 13px; }
+.status-ok { color: var(--ok); font-weight: 600; } .status-fix { color: var(--warn); font-weight: 600; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Gold label review · English notes</h1>
+  <div class="legend" id="legend"></div>
+  <span class="progress" id="progress"></span>
+  <select id="filter" aria-label="Filter notes">
+    <option value="all">All notes</option><option value="todo">Not reviewed</option>
+    <option value="fix">Needs fix</option>
+  </select>
+  <button class="primary" id="export">Download corrections</button>
+</header>
+<main>
+  <p class="hint">For each note: check every highlighted span against <b>ANNOTATION_GUIDELINE.md</b>.
+    <b>Click a highlight</b> to mark it wrong (click again to undo).
+    To add missed PHI, <b>select the text</b> in the note and press a label button.
+    Then press <b>Looks correct</b> or <b>Needs fix</b>. Progress is kept in this browser;
+    press <b>Download corrections</b> when done and save the file into <code>eval/gold/</code>.</p>
+  <details class="cands"><summary><b>Capitalised words outside any label</b> — scan for names or places the draft missed</summary>
+    <ul id="cands"></ul></details>
+  <div id="list"></div>
+</main>
+<script>
+const DATA = /*__DATA__*/null;
+const LABELS = ["PERSON", "AGE", "DATE_TIME", "ID", "LOCATION", "ORGANIZATION"];
+const KEY = "gold-review-v1";
+let state = {};
+try { state = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch (e) { state = {}; }
+const save = () => { try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {} };
+const st = id => (state[id] ||= { status: "", comment: "", removed: [], added: [] });
+
+const spansByNote = {};
+DATA.spans.forEach((s, i) => (spansByNote[s.note] ||= []).push({ ...s, idx: i }));
+const ids = Object.keys(DATA.notes).sort((a, b) => a - b);
+
+document.getElementById("legend").innerHTML =
+  LABELS.map(l => `<span style="background:var(--${l})">${l}</span>`).join("");
+document.getElementById("cands").innerHTML =
+  DATA.candidates.map(([w, n]) => `<li>${w} <span class="hint">×${n}</span></li>`).join("");
+
+const esc = t => t.replace(/[&<>]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;" }[c]));
+// \r is shown as a zero-width space so displayed offsets equal file offsets.
+const show = t => esc(t.replace(/\r/g, "​"));
+
+function renderNote(id) {
+  const text = DATA.notes[id], s = st(id);
+  const spans = [
+    ...(spansByNote[id] || []).map(x => ({ ...x, kind: "gold" })),
+    ...s.added.map((x, k) => ({ ...x, kind: "added", k })),
+  ].sort((a, b) => a.start - b.start);
+  let html = "", pos = 0;
+  for (const sp of spans) {
+    if (sp.start < pos) continue;
+    html += `<span data-off="${pos}">${show(text.slice(pos, sp.start))}</span>`;
+    const cls = sp.kind === "added" ? "added" : (s.removed.includes(sp.idx) ? "removed" : "");
+    const bg = sp.kind === "added" ? `var(--${sp.label})` : `var(--${sp.label})`;
+    const ref = sp.kind === "added" ? `data-added="${sp.k}"` : `data-idx="${sp.idx}"`;
+    html += `<mark class="${cls}" style="background:${bg}" title="${sp.label}${sp.field ? " · " + sp.field : " · added"}" ${ref} data-off="${sp.start}">${show(text.slice(sp.start, sp.end))}</mark>`;
+    pos = sp.end;
+  }
+  html += `<span data-off="${pos}">${show(text.slice(pos))}</span>`;
+  const statusTxt = s.status === "ok" ? `<span class="status-ok">✓ correct</span>`
+    : s.status === "fix" ? `<span class="status-fix">needs fix</span>` : `<span class="hint">not reviewed</span>`;
+  return `<div class="card ${s.status}" id="n${id}" data-id="${id}">
+    <h2>${id}.txt ${statusTxt}</h2>
+    <pre class="note">${html}</pre>
+    <div class="toolbar"><span class="hint">Add selected text as:</span>
+      ${LABELS.map(l => `<button data-add="${l}" style="background:var(--${l})">${l}</button>`).join("")}</div>
+    <textarea placeholder="Comment (optional) — e.g. boundary problem, unsure case">${esc(s.comment)}</textarea>
+    <div class="toolbar"><button data-status="ok">Looks correct</button>
+      <button data-status="fix">Needs fix</button></div></div>`;
+}
+
+function render() {
+  const f = document.getElementById("filter").value;
+  const shown = ids.filter(id => f === "all" || (f === "todo" ? !st(id).status : st(id).status === "fix"));
+  document.getElementById("list").innerHTML = shown.map(renderNote).join("");
+  const done = ids.filter(id => st(id).status).length;
+  document.getElementById("progress").textContent = `${done} / ${ids.length} reviewed`;
+}
+
+function selectionOffsets(card) {
+  const sel = window.getSelection();
+  if (!sel.rangeCount || sel.isCollapsed) return null;
+  const r = sel.getRangeAt(0), pre = card.querySelector("pre");
+  if (!pre.contains(r.startContainer) || !pre.contains(r.endContainer)) return null;
+  const abs = (node, off) => {
+    const el = node.nodeType === 3 ? node.parentElement : node;
+    return Number(el.dataset.off) + (node.nodeType === 3 ? off : 0);
+  };
+  let start = abs(r.startContainer, r.startOffset), end = abs(r.endContainer, r.endOffset);
+  const text = DATA.notes[card.dataset.id];
+  while (start < end && /\s/.test(text[start])) start++;
+  while (end > start && /\s/.test(text[end - 1])) end--;
+  return start < end ? { start, end, text: text.slice(start, end) } : null;
+}
+
+document.getElementById("list").addEventListener("click", e => {
+  const card = e.target.closest(".card"); if (!card) return;
+  const id = card.dataset.id, s = st(id);
+  const t = e.target;
+  if (t.dataset.status) { s.status = t.dataset.status; }
+  else if (t.dataset.add) {
+    const sel = selectionOffsets(card);
+    if (!sel) { alert("Select text inside this note first."); return; }
+    s.added.push({ ...sel, label: t.dataset.add });
+  } else if (t.matches("mark[data-idx]")) {
+    const i = Number(t.dataset.idx);
+    s.removed = s.removed.includes(i) ? s.removed.filter(x => x !== i) : [...s.removed, i];
+  } else if (t.matches("mark[data-added]")) {
+    if (confirm("Remove this added span?")) s.added.splice(Number(t.dataset.added), 1);
+  } else return;
+  save(); render();
+  document.getElementById("n" + id)?.scrollIntoView({ block: "nearest" });
+});
+document.getElementById("list").addEventListener("input", e => {
+  if (e.target.tagName !== "TEXTAREA") return;
+  st(e.target.closest(".card").dataset.id).comment = e.target.value; save();
+});
+document.getElementById("filter").addEventListener("change", render);
+document.getElementById("export").addEventListener("click", () => {
+  const out = { reviewed: ids.filter(id => st(id).status).length, total: ids.length, notes: {} };
+  for (const id of ids) {
+    const s = st(id);
+    out.notes[id] = { status: s.status, comment: s.comment,
+      removed: s.removed.map(i => DATA.spans[i]), added: s.added };
+  }
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([JSON.stringify(out, null, 1)], { type: "application/json" }));
+  a.download = "corrections.json"; a.click();
+});
+render();
+</script>
+</body>
+</html>

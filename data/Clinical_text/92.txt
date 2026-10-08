@@ -1,0 +1,38 @@
+JIPMER Puducherry
+Discharge Summary
+
+Patient Name: Pooja Sharma
+Age/Sex: 75/F
+UHID: 224411653
+Admission No: ADM-20262931
+Address: HITEC City, Hyderabad
+Admission Date: 03/02/2026 08:00 AM
+Discharge Date: 11/02/2026 01:00 PM
+Treating Consultant: Dr. Anjali Desai (Pediatrician), Orthopaedics
+
+Chief Complaints: Lower back pain radiating to the leg for 3 weeks.
+
+History of Present Illness: Pain is sharp and shooting in nature. Patient ko dard tha.
+
+Past History: History of fall a few years back.
+
+Physical Examination: Restricted range of motion of the lumbar spine.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: MRI of the spine shows disc herniation at L4-L5.
+
+Diagnosis: Osteoarthritis of the right knee (ICD: M17.11).
+
+Course in Hospital: Advised for physiotherapy and lifestyle modifications. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Avoid lifting heavy weights; Follow-up after 2 weeks.
+
+
+Dr. Arvind Subramanian (Cardiologist)
+Signature

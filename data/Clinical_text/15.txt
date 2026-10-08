@@ -1,0 +1,38 @@
+Tata Memorial Hospital Mumbai
+Discharge Summary
+
+Patient Name: Rohan Desai
+Age/Sex: 17 years/M
+UHID: 881360579
+Admission No: ADM-20261662
+Address: Koramangala, Bangalore
+Admission Date: 09/02/2026 08:00 AM
+Discharge Date: 11/02/2026 01:00 PM
+Treating Consultant: Dr. Neha Patel, Orthopaedics
+
+Chief Complaints: Pain in right knee for 29 months.
+
+History of Present Illness: Pain increases on walking and climbing stairs. Patient ko fever tha.
+
+Past History: No history of chronic illness.
+
+Physical Examination: Restricted range of motion of the lumbar spine.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: X-ray of the knee shows degenerative changes.
+
+Diagnosis: Lumbar Disc Herniation (ICD: M51.26).
+
+Course in Hospital: Managed conservatively with analgesics and rest. No major complications, but monitored for malaria risk.
+
+Socio-Economic Status: Class III as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Haldi milk for pain.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Avoid lifting heavy weights; Follow-up after 2 weeks.
+
+
+Dr. Randeep Guleria (Pulmonologist)
+Signature

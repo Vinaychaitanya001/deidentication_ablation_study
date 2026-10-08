@@ -1,0 +1,38 @@
+Safdarjung Hospital Delhi
+Discharge Summary
+
+Patient Name: Veena Kumari
+Age/Sex: 22/M
+UHID: 168305083
+Admission No: ADM-20268996
+Address: Anna Nagar, Chennai
+Admission Date: 02/02/2026 10:00 AM
+Discharge Date: 14/02/2026 01:00 PM
+Treating Consultant: Dr. Neha Patel, Orthopaedics
+
+Chief Complaints: Lower back pain radiating to the leg for 17 weeks.
+
+History of Present Illness: Pain increases on walking and climbing stairs. Patient ko dard tha.
+
+Past History: No history of chronic illness.
+
+Physical Examination: Restricted range of motion of the lumbar spine.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: MRI of the spine shows disc herniation at L4-L5.
+
+Diagnosis: Lumbar Disc Herniation (ICD: M51.26).
+
+Course in Hospital: Managed conservatively with analgesics and rest. No major complications, but monitored for dengue-like symptoms.
+
+Socio-Economic Status: Class II as per modified Kuppuswamy scale.
+Traditional Medicine History: Used none.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Meds: Tab. Paracetamol 650mg SOS for pain.
+
+
+Dr. Randeep Guleria (Pulmonologist)
+Signature

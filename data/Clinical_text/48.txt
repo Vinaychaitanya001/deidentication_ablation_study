@@ -1,0 +1,38 @@
+Max Super Speciality Hospital Delhi
+Discharge Summary
+
+Patient Name: Maria Fernandes
+Age/Sex: 8 months/M
+UHID: 828780773
+Admission No: ADM-20267844
+Address: HITEC City, Hyderabad
+Admission Date: 08/02/2026 09:00 AM
+Discharge Date: 11/02/2026 01:00 PM
+Treating Consultant: Dr. Neha Patel, Oncology
+
+Chief Complaints: Lump in the breast for 22 weeks.
+
+History of Present Illness: Patient noticed a gradual loss of appetite. Patient ko dard tha.
+
+Past History: Family history of cancer.
+
+Physical Examination: Cachexic look, pallor present.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: Mammogram and biopsy confirmed malignancy.
+
+Diagnosis: Metastatic Adenocarcinoma of unknown primary (ICD: C80.0).
+
+Course in Hospital: Patient started on palliative chemotherapy. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Tulsi for cough.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- Regular follow-up in the oncology OPD.
+
+
+Dr. Anjali Desai (Pediatrician)
+Signature

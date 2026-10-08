@@ -1,0 +1,38 @@
+PGIMER Chandigarh
+Discharge Summary
+
+Patient Name: Mohammed Ali
+Age/Sex: 22/M
+UHID: 828780773
+Admission No: ADM-20263781
+Address: HITEC City, Hyderabad
+Admission Date: 03/02/2026 09:00 AM
+Discharge Date: 11/02/2026 03:00 PM
+Treating Consultant: Dr. Anita Sharma, Oncology
+
+Chief Complaints: Unexplained weight loss and fatigue for 22 months.
+
+History of Present Illness: Patient noticed a gradual loss of appetite. Patient ko weakness feel kar raha tha.
+
+Past History: Family history of cancer.
+
+Physical Examination: Cachexic look, pallor present.
+- PICCKLE: Pallor: +, Icterus: -, Cyanosis: -, Clubbing: -, Koilonychia: -, Lymphadenopathy: -, Edema: -
+
+Investigations: Mammogram and biopsy confirmed malignancy.
+
+Diagnosis: Carcinoma of the Breast (ICD: C50.9).
+
+Course in Hospital: Underwent mastectomy followed by chemotherapy. No major complications, but monitored for post-viral fatigue.
+
+Socio-Economic Status: Class IV as per modified Kuppuswamy scale.
+Traditional Medicine History: Used Tulsi for cough.
+
+Condition at Discharge: Stable, afebrile.
+
+Advice on Discharge:
+- High protein diet.
+
+
+Dr. Anjali Desai (Pediatrician)
+Signature
